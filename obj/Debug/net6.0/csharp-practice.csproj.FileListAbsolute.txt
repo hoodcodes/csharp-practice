@@ -1,0 +1,15 @@
+/Users/hoodcodes/Projects/csharp/csharp-practice/bin/Debug/net6.0/csharp-practice
+/Users/hoodcodes/Projects/csharp/csharp-practice/bin/Debug/net6.0/csharp-practice.deps.json
+/Users/hoodcodes/Projects/csharp/csharp-practice/bin/Debug/net6.0/csharp-practice.runtimeconfig.json
+/Users/hoodcodes/Projects/csharp/csharp-practice/bin/Debug/net6.0/csharp-practice.dll
+/Users/hoodcodes/Projects/csharp/csharp-practice/bin/Debug/net6.0/ref/csharp-practice.dll
+/Users/hoodcodes/Projects/csharp/csharp-practice/bin/Debug/net6.0/csharp-practice.pdb
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.csproj.AssemblyReference.cache
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.AssemblyInfoInputs.cache
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.AssemblyInfo.cs
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.csproj.CoreCompileInputs.cache
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.dll
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/ref/csharp-practice.dll
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.pdb
+/Users/hoodcodes/Projects/csharp/csharp-practice/obj/Debug/net6.0/csharp-practice.genruntimeconfig.cache
